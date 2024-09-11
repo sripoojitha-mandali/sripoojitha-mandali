@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS Data Engineer - Associate**
 
-- 👨‍💻 You can find my portfolio at [(https://sripoojitha-mandali.github.io/portfolio/)(https://sripoojitha-mandali.github.io/portfolio/)]
+- 👨‍💻 You can find my portfolio at [https://sripoojitha-mandali.github.io/portfolio/](https://sripoojitha-mandali.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@poojitha.mandali](https://medium.com/@poojitha.mandali)
 
