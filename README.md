@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Poojitha Mandali</h1>
-<h3 align="center">A reflective programmer and data engineer who finds motivation in challenging issues.</h3>
+<h3 align="center">A reflective programmer, machine learning engineer and data engineer who finds motivation in challenging issues.</h3>
 
 - 🔭 I’m currently working on **building end to end data engineering applications.**
 
