@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building end to end data engineering applications.**
 
-- 🌱 I’m currently learning **AWS Data Engineer - Associate**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👨‍💻 You can find my portfolio at [https://sripoojitha-mandali.github.io/](https://sripoojitha-mandali.github.io/)
 
